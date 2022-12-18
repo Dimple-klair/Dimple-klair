@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 Myself Dimple
 
 Machine Learning Enthusiast.Love to do projects in:-
 * NLP/sentiment analysis
@@ -24,5 +24,6 @@ My linkedin Profile:-
 www.linkedin.com/in/dimple-k-a2919924a
 
 My Github Stats
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dimple-klair&theme=radical)
 

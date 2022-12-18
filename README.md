@@ -27,3 +27,7 @@ My Github Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dimple-klair&theme=radical)
 
+Most used language
+
+https://github-readme-stats.vercel.app/api/top-langs/?username=Dimple-klair&show_icons=true&theme=radical
+

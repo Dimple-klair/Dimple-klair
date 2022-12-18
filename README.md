@@ -39,5 +39,6 @@ Most used language
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dimple-klair&show_icons=true&theme=radical)
 
 
-I am currently working on another project of sentiment analysis.
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on another project of sentiment analysis
+- 🌱 I’m currently learning Tableau & Advanced Excel
+- 😄 Words that describe me:- Self Motivated, Always complete my work on time

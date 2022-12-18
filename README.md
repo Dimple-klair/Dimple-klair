@@ -1,6 +1,13 @@
 ### Hi there 👋 Myself Dimple
 
-Machine Learning Enthusiast.Love to do projects in:-
+Machine Learning Enthusiast.
+
+Have some experience 
+* in product sentiment analysis
+* Feature selections
+
+
+Love to do projects in:-
 * NLP/sentiment analysis
 * Feature selections out of multiple parameters for taking end decisions.
 * Binary-classifications 
@@ -31,3 +38,6 @@ Most used language
 
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dimple-klair&show_icons=true&theme=radical)
 
+
+I am currently working on another project of sentiment analysis.
+- 🔭 I’m currently working on ...

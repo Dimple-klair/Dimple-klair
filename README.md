@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+Machine Learning Enthusiast.Love to do projects in:-
+* NLP/sentiment analysis
+* Feature selections out of multiple parameters for taking end decisions.
+* Binary-classifications 
+* multi-classification 
+
 <!--
 **Dimple-klair/Dimple-klair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +20,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+My linkedin Profile:-
+www.linkedin.com/in/dimple-k-a2919924a
 
+My Github Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dimple-klair&theme=radical)
 
